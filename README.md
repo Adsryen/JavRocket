@@ -1,3 +1,5 @@
+<img width="48" alt="jav_logo" src="/art/jav_logo.png"> 
+
 # JavRocket
 漂亮且优雅的开车APP
 
