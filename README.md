@@ -1,7 +1,7 @@
-<img width="48" alt="jav_logo" src="/art/jav_logo.png"> 
-
+<!-- <p align="center"><img width="120" alt="jav_logo" src="/art/jav_logo.png"></p> -->
+<!-- <p align="center"><img src="https://img.shields.io/badge/Download-2.6-brightgreen"></p> -->
 # JavRocket
-漂亮且优雅的开车APP
+> 漂亮且优雅的开车APP
 
 [Telegram](https://t.me/higentleman)
 
