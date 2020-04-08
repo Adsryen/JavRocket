@@ -4,7 +4,7 @@
 <h1 align="center">JavRocket</h1>
 
 <div align="center">
-<p><strong>JavRocket</strong> 漂亮且优雅的开车APP</p>
+<p><strong>JavRocket</strong>是一个漂亮且优雅的开车APP</p>
 </div>
 
 <!-- # JavRocket -->
