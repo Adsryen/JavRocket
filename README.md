@@ -1,26 +1,32 @@
-<p align="center"><img width="200" alt="jav_logo" src="/art/jav_logo.png"></p>
-<p align="center"><img src="https://img.shields.io/badge/Version-2.6-brightgreen"></p>
+<!--<p align="center"><img width="200" alt="jav_logo" src="/art/jav_logo.png"></p>-->
+<!--<p align="center"><img src="https://img.shields.io/badge/Version-2.6-brightgreen"></p>-->
 
-<h1 align="center">JavRocket</h1>
+<!--<h1 align="center">JavRocket</h1>-->
 
-<div align="center">
+<!--<div align="center">
 <p><strong>JavRocket</strong>是一个漂亮且优雅的开车APP</p>
-</div>
+</div>-->
 <!--<p><strong><a href="https://t.me/higentleman">Telegram</a></strong></p>-->
 
-**[Telegram](https://t.me/higentleman)**
+<!--**[Telegram](https://t.me/higentleman)**-->
 
-<img width="300" alt="screenshot" src="/art/screenshot.jpg">
+<!--<img width="300" alt="screenshot" src="/art/screenshot.jpg">-->
 
 <!-- <img width="30%" align="left" alt="screenshot" src="/art/screenshot.jpg"> -->
 <!--align="right" hspace="0"-->
 
-## 下载
+# JavRocket
 
-- **[Github、更新日志](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
-- **[蓝奏云](https://www.lanzous.com/b0sfuli)**
+![version](https://img.shields.io/badge/Version-2.6-brightgreen)
 
-## 帮助
+> A beautiful and elegant APP
+
+## Download
+
+- **[Github、Change log](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
+- **[Lanzous](https://www.lanzous.com/b0sfuli)**
+<!--
+## Help
 
 - 使用新的中文字幕推送功能，需要你将APP加入白名单（2.5+）
 - 点击剧照标题可临时更换图片源（2.5+）
@@ -31,4 +37,5 @@
 - 长按详情识别码可以查看该识别码相关的影片（2.0+）
 - “管理我的关注”中滑动可删除列表项目（2.0+）
 
-> ⚠️因为包含成人内容🔞，它可能会被某些设备列为危险和病毒APP
+> ⚠️因为包含🔞内容，它可能会被某些设备列为危险和病毒APP
+-->
