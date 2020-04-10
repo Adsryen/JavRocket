@@ -21,10 +21,10 @@
 
 > A beautiful and elegant APP
 
-## Download
+## Change Log
 
-- **[Github、Change log](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
-- **[Lanzous](https://www.lanzous.com/b0sfuli)**
+- **[Github](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
+<!--- **[Lanzous](https://www.lanzous.com/b0sfuli)**-->
 <!--
 ## Help
 
