@@ -6,14 +6,12 @@
 <div align="center">
 <p><strong>JavRocket</strong>是一个漂亮且优雅的开车APP</p>
 </div>
-<!--
-<p><strong><a href="https://t.me/higentleman">Telegram</a></strong></p>
-
--->
+<!--<p><strong><a href="https://t.me/higentleman">Telegram</a></strong></p>-->
 
 **[Telegram](https://t.me/higentleman)**
 
 <img width="300" alt="screenshot" src="/art/screenshot.jpg">
+
 <!-- <img width="30%" align="left" alt="screenshot" src="/art/screenshot.jpg"> -->
 <!--align="right" hspace="0"-->
 
