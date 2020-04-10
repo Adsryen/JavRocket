@@ -8,8 +8,7 @@
 <p><strong><a href="https://t.me/higentleman">Telegram</a></strong></p>
 </div>
 
-<!--<img width="300" alt="screenshot" src="/art/screenshot.jpg">-->
-<img width="30%" align="left" alt="screenshot" src="/art/screenshot.jpg">
+<!-- <img width="30%" align="left" alt="screenshot" src="/art/screenshot.jpg"> -->
 <!--align="right" hspace="0"-->
 
 ## 下载
@@ -29,3 +28,5 @@
 - “管理我的关注”中滑动可删除列表项目（2.0+）
 
 > ⚠️因为包含成人内容🔞，它可能会被某些设备列为危险和病毒APP
+
+<img width="300" alt="screenshot" src="/art/screenshot.jpg">
