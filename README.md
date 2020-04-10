@@ -9,7 +9,7 @@
 </div>
 
 <!--<img width="300" alt="screenshot" src="/art/screenshot.jpg">-->
-<img width="30%" alt="screenshot" src="/art/screenshot.jpg">
+<img width="30%" align="left" alt="screenshot" src="/art/screenshot.jpg">
 <!--align="right" hspace="0"-->
 
 ## 下载
