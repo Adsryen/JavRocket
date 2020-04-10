@@ -7,17 +7,14 @@
 <p><strong>JavRocket</strong>是一个漂亮且优雅的开车APP</p>
 </div>
 
-<!-- # JavRocket -->
-<!-- > 漂亮且优雅的开车APP -->
-
 **[Telegram](https://t.me/higentleman)**
+
+<img width="300" alt="screenshot" src="/art/screenshot.jpg" align="right" hspace="0">
 
 ## 下载
 
 - **[Github、更新日志](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
 - **[蓝奏云](https://www.lanzous.com/b0sfuli)**
-
-<img width="300" alt="screenshot" src="/art/screenshot.jpg">
 
 ## 帮助
 
