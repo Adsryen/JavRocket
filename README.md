@@ -8,7 +8,7 @@
 <p><strong><a href="https://t.me/higentleman">Telegram</a></strong></p>
 </div>
 
-<img width="300" alt="screenshot" src="/art/screenshot.jpg">
+<img width="300" alt="screenshot" src="/art/screenshot.jpg" align="left" hspace="0">
 <!--align="right" hspace="0"-->
 
 ## 下载
