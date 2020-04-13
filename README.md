@@ -25,6 +25,9 @@
 
 - **[Github](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
 <!--- **[Lanzous](https://www.lanzous.com/b0sfuli)**-->
+
+## [Wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
+
 <!--
 ## Help
 
