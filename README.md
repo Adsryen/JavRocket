@@ -8,8 +8,6 @@
 </div>-->
 <!--<p><strong><a href="https://t.me/higentleman">Telegram</a></strong></p>-->
 
-<!--**[Telegram](https://t.me/higentleman)**-->
-
 <!--<img width="300" alt="screenshot" src="/art/screenshot.jpg">-->
 
 <!-- <img width="30%" align="left" alt="screenshot" src="/art/screenshot.jpg"> -->
@@ -21,12 +19,12 @@
 
 > A beautiful and elegant APP
 
-## Change Log
+- **[Telegram](https://t.me/higentleman)**
 
-- **[Github](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
+- **[Download](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
 <!--- **[Lanzous](https://www.lanzous.com/b0sfuli)**-->
 
-## [Wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
+- [Wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
 
 <!--
 ## Help
