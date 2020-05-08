@@ -1,5 +1,5 @@
 <!--<p align="center"><img width="200" alt="jav_logo" src="/art/jav_logo.png"></p>-->
-<!--<p align="center"><img src="https://img.shields.io/badge/Version-2.6-brightgreen"></p>-->
+<!--<p align="center"><img src="https://img.shields.io/badge/Version-2.8-brightgreen"></p>-->
 
 <!--<h1 align="center">JavRocket</h1>-->
 
