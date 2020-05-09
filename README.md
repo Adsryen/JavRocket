@@ -15,7 +15,7 @@
 
 # JavRocket
 
-![version](https://img.shields.io/badge/Version-2.6-brightgreen)
+![version](https://img.shields.io/badge/Version-2.8-brightgreen)
 
 > A beautiful and elegant APP
 
