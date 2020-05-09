@@ -19,6 +19,8 @@
 
 > A beautiful and elegant APP
 
+This app is for research and learning only. Do not use it for illegal purposes
+
 - **[Telegram](https://t.me/higentleman)**
 
 - **[Download](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
