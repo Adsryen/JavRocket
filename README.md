@@ -14,12 +14,13 @@
 <!--align="right" hspace="0"-->
 
 # JavRocket
+=====
 
 > A beautiful and elegant APP
 
 This app is for research and learning only. Do not use it for illegal purposes
 
-- **[Telegram](https://t.me/higentleman)**
+**[Telegram](https://t.me/higentleman)**
 
 ##- **[Download](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
 Download
@@ -32,7 +33,10 @@ You can download a app from GitHub's [releases page](https://github.com/gentlema
 <!--- **[Lanzous](https://www.lanzous.com/b0sfuli)**-->
 For JavBus, see the old version [JavBus 1.1](https://github.com/gentlemansolo/JavbuslibraryRealse/releases/tag/1.1)
 
-- [Wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
+How do I use Glide?
+-------------------
+
+see the [wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
 
 <!--
 ## Help
