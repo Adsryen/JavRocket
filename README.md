@@ -15,16 +15,22 @@
 
 # JavRocket
 
-![version](https://img.shields.io/badge/Version-2.8-brightgreen)
-
 > A beautiful and elegant APP
 
 This app is for research and learning only. Do not use it for illegal purposes
 
 - **[Telegram](https://t.me/higentleman)**
 
-- **[Download](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
+##- **[Download](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)**
+Download
+--------
+
+![version](https://img.shields.io/badge/Version-3.0-brightgreen)
+
+You can download a app from GitHub's [releases page](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
+
 <!--- **[Lanzous](https://www.lanzous.com/b0sfuli)**-->
+For JavBus, see the old version [JavBus 1.1](https://github.com/gentlemansolo/JavbuslibraryRealse/releases/tag/1.1)
 
 - [Wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
 
