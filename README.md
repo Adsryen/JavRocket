@@ -33,7 +33,7 @@ You can download a app from GitHub's [releases page](https://github.com/gentlema
 <!--- **[Lanzous](https://www.lanzous.com/b0sfuli)**-->
 For JavBus, see the old version [JavBus 1.1](https://github.com/gentlemansolo/JavbuslibraryRealse/releases/tag/1.1)
 
-How do I use Glide?
+How do I use JavRocket?
 -------------------
 
 see the [wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
