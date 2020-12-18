@@ -23,7 +23,7 @@ This app is for research and learning only. Do not use it for illegal purposes
 
 ## Download
 
-![version](https://img.shields.io/badge/Version-3.6+-brightgreen)
+![version](https://img.shields.io/badge/Version-5.2+-brightgreen)
 
 You can download a app from GitHub's [releases page](https://github.com/gentlemansolo/JavbuslibraryRealse/releases)
 
