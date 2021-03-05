@@ -32,7 +32,7 @@ For JavBus, see the old version [JavBus 1.1](https://github.com/gentlemansolo/Ja
 
 ## How do I use JavRocket?
 
-see the [wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
+See the [wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
 
 <!--
 ## Help
