@@ -34,6 +34,11 @@ For JavBus, see the old version [JavBus 1.1](https://github.com/gentlemansolo/Ja
 
 See the [wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
 
+## Else
+
+[杏吧原创视频，人人都知道](https://xb08.me/?_c=ltxbcps125)
+[SWAG资源，每日更新，打包下载](https://asdjkl7777.site/?r=888)
+
 <!--
 ## Help
 
