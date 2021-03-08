@@ -36,11 +36,11 @@ See the [wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
 
 ## Else
 
-[杏吧原创视频，人人都知道](https://xb08.me/?_c=ltxbcps125)
+- [杏吧原创视频，人人都知道](https://xb08.me/?_c=ltxbcps125)
 
-[CCAV丰富资讯，什么都有](https://ccav699.com/?channel=ltccavcps125)
+- [CCAV丰富资讯，什么都有](https://ccav699.com/?channel=ltccavcps125)
 
-[SWAG资源，每日更新，打包下载](https://asdjkl7777.site/?r=888)
+- [SWAG资源，每日更新，打包下载](https://asdjkl7777.site/?r=888)
 <!--
 ## Help
 
