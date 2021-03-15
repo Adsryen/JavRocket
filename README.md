@@ -40,7 +40,7 @@ See the [wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
 - [杏吧原创视频](https://xingba28.com/?_c=ltxb002)
 - [CCAV丰富资讯](https://ccav689.com/?channel=ltccav002)
 - [秀色短视频](https://xiuse019.com/?_c=ltxs002)
-- [溏心VLOG](https://tx5210.com/?_c=lttx002)
+- [溏心成人VLOG](https://tx5210.com/?_c=lttx002)
 - [51漫画](https://51mh010.com/?_c=ltmh002)
 
 <!--
