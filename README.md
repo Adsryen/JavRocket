@@ -36,7 +36,7 @@ See the [wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
 
 ## Else
 
-[更多福利APP](https://github.com/gentlemansolo/JavRocket/blob/master/更多福利APP.txt)
+[更多福利APP](https://github.com/gentlemansolo/JavRocket/blob/master/更多福利APP.md)
 
 <!--
 ## Help
