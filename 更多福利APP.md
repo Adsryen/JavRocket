@@ -33,7 +33,7 @@
 <br>
 
 <img width="35%" alt="xingba_banner" src="https://settings-gentlemansolo.vercel.app/img/huajiao_banner.jpg"><br>
-**[花椒](https://hj05.me/?_c=lthj002)**：同城约Pao，还有空降嫩模<br>
+**[花椒](https://huajiao04.com//?_c=lthj002)**：同城约Pao，还有空降嫩模<br>
 <br>
 
 <img width="35%" alt="xingba_banner" src="https://settings-gentlemansolo.vercel.app/img/kuaise_banner.jpg"><br>
