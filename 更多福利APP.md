@@ -4,8 +4,8 @@
 
 ------
 
-<p>跟以下app内的在线客服报暗语：我爱中国，我爱学习，可随机领取体验码1~30天。<br>
-这些app我都用过，设计比较精美，使用流畅，不用翻墙，无毒，且过年期间有大折扣。</p>
+跟以下app内的在线客服报暗语：我爱中国，我爱学习，可随机领取体验码1~30天。<br>
+这些app我都用过，设计比较精美，使用流畅，不用翻墙，无毒，且过年期间有大折扣。
 <br>
 
 <img width="35%" alt="xingba_banner" src="https://settings-gentlemansolo.vercel.app/img/xingba_banner.jpg"><br>
