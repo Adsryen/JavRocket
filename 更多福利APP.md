@@ -17,11 +17,11 @@
 <br>
 
 <img width="40%" alt="ccav_banner" src="https://settings-gentlemansolo.vercel.app/img/ccav_banner.jpg"><br>
-**[CCAV成人资讯](https://ccav69i.com/?channel=ltccav002)**：名字很内涵，以各种猛料黑料为主，说不定哪天你就能看到某知名女星艳照、身边好友Luo拍……<br>
+**[CCAV精品视频](https://ccav69i.com/?channel=ltccav002)**：名字很内涵，以各种猛料黑料为主，说不定哪天你就能看到某知名女星艳照、身边好友Luo拍……<br>
 <br>
 
 <img width="40%" alt="tangxin_banner" src="https://settings-gentlemansolo.vercel.app/img/tangxin_banner.jpg"><br>
-**[福利姬自拍](https://z.tx5242.com/?_c=lttx002)**：原创多，福利姬自拍VLog，能定制私拍，Luo聊，有些给钱能约，得自己撩。<br>
+**[溏心国产SWAG](https://z.tx5242.com/?_c=lttx002)**：原创多，福利姬自拍VLog，能定制私拍，Luo聊，有些给钱能约，得自己撩。<br>
 <br>
 
 <img width="40%" alt="51mh_banner" src="https://settings-gentlemansolo.vercel.app/img/51mh_banner.jpg"><br>
@@ -29,7 +29,7 @@
 <br>
 
 <img width="40%" alt="k9_banner" src="https://settings-gentlemansolo.vercel.app/img/k9_banner.jpg"><br>
-**[K9调教](https://z.k9sm20.com/?_c=ltk9002)**：听名字，懂的都懂。非字母圈的就别去了，免得i变成O<br>
+**[K9调教视频](https://z.k9sm20.com/?_c=ltk9002)**：听名字，懂的都懂。非字母圈的就别去了，免得i变成O<br>
 <br>
 
 <img width="40%" alt="huajiao_banner" src="https://settings-gentlemansolo.vercel.app/img/huajiao_banner.jpg"><br>
