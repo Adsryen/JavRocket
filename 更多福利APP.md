@@ -1,5 +1,5 @@
 <img width="40%" alt="xingba_banner" src="https://settings-gentlemansolo.vercel.app/img/swag_banner.jpg"><br>
-**[SWAG资源](https://asdjkl7777.site/?r=888)**：每日都会更新，可以打包下载<br>
+**[SWAG资源](https://zxcvbnm777.site/?r=888)**：每日都会更新，可以打包下载<br>
 <br>
 
 ------
