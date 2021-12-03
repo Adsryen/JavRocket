@@ -34,6 +34,6 @@ For JavBus, see the old version [JavBus 1.1](https://github.com/gentlemansolo/Ja
 
 See the [wiki](https://github.com/gentlemansolo/JavbuslibraryRealse/wiki)
 
-## Else
+<!-- ## Else -->
 
-[更多福利APP](https://github.com/gentlemansolo/JavRocket/blob/master/更多福利APP.md)
+<!-- [更多福利APP](https://github.com/gentlemansolo/JavRocket/blob/master/更多福利APP.md) -->
